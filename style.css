@@ -1,0 +1,55 @@
+body {
+    background: url(./bg-desktop.jpg);
+    color: #ffffff;
+    width: 100%;
+}
+
+.contener {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.menu {
+    align-items: center;
+}
+
+.menu ul {
+    margin: 63px;
+}
+
+.menu ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 56px;
+}
+.button {
+    color: #ffffff;
+    background: #8257E5;
+    border: 1px solid #8257E5;
+    height: 45px;
+    width: 171px;
+    border-radius: 10px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    margin-top: 58px;
+}
+.imagem2 {
+    margin-left: 498px;
+}
+
+.imagem3 {
+   text-align: center;
+   
+}
+.imagem4 {
+    margin-left: 1001px;
+    margin-top: -340px;
+}
+.imagem5 {
+    margin-left: 391px;
+    margin-top: -55px;
+}
